@@ -47,7 +47,7 @@ const CardSwiper = () => {
 
   return (
     <div className="container">
-      <div className="title">静态图</div>
+      <div className="title">走马灯</div>
       <Swiper
         className="swiper_container"
         slidesPerView="auto"
